@@ -1,297 +1,158 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=220&color=0:0F172A,48:1E293B,100:334155&text=yongh&fontColor=F8FAFC&fontSize=54&fontAlignY=42&desc=Software%20Engineering%20%C2%B7%20AI%20Systems%20%C2%B7%20Research%20Engineering&descAlignY=63&descSize=17&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:0F172A,48:1E3A8A,100:0F766E&text=yongh&fontSize=52&fontColor=F8FAFC&fontAlignY=35&desc=Software%20Engineering%20%C2%B7%20AI%20Systems%20%C2%B7%20Project%20Building&descAlignY=57&descSize=16&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=18&duration=3400&pause=1200&color=64748B&center=true&vCenter=true&repeat=true&width=900&height=42&lines=Building+reliable+AI+systems+from+models+to+products;%E5%B0%86%E6%A8%A1%E5%9E%8B%E8%83%BD%E5%8A%9B%E8%BD%AC%E5%8C%96%E4%B8%BA%E5%8F%AF%E7%94%A8%E3%80%81%E5%8F%AF%E9%9D%A0%E7%9A%84%E6%99%BA%E8%83%BD%E7%B3%BB%E7%BB%9F" alt="Typing introduction" />
+### Software Engineering Student @ DUT
+
+目前主要关注 **AI Agents、Computer Vision 与 Backend Engineering**，  
+喜欢通过真实项目，把模型、接口、数据和前端逐步连接成可运行的完整应用。
 
 <br/>
 
-<a href="https://github.com/telitor/SciPilot"><img src="https://img.shields.io/badge/Featured-SciPilot-334155?style=flat-square&logo=github&logoColor=white" /></a>
-<img src="https://img.shields.io/badge/DUT-Software%20Engineering-475569?style=flat-square" />
-<img src="https://img.shields.io/badge/MCM%2FICM-M%20Award-64748B?style=flat-square" />
+<a href="https://github.com/telitor/SciPilot">
+  <img src="https://img.shields.io/badge/Featured-SciPilot-2563EB?style=flat-square&logo=github&logoColor=white" />
+</a>
+<img src="https://img.shields.io/badge/Focus-AI%20Systems-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20React-334155?style=flat-square" />
 
 <br/><br/>
 
-[**SciPilot**](https://github.com/telitor/SciPilot) · [**Repositories / 项目仓库**](https://github.com/telitor?tab=repositories)
+[Projects](#projects--项目) · [Interests](#interests--兴趣方向) · [Tech Stack](#tech-stack--技术栈)
 
 </div>
 
 ---
 
-## 01 — Profile / 个人简介
+## About / 关于我
 
-<table>
-<tr>
-<td width="50%" valign="top">
+我是大连理工大学软件工程专业学生，目前主要在做 **AI 应用、后端系统和计算机视觉相关项目**。
 
-### English
+我更关注一个功能怎样真正落地：从模型调用、API 设计、用户鉴权，到数据库存储、前后端联调和项目部署。平时会通过完整项目推进实践，而不是只停留在单独的算法或 Demo。
 
-Software Engineering student at **Dalian University of Technology**, working at the intersection of intelligent systems and software engineering.
+目前做过的内容主要包括：
 
-I focus on the engineering layer between model capability and real-world use: system architecture, agent orchestration, secure data flows, persistent context, and reproducible workflows.
-
-</td>
-<td width="50%" valign="top">
-
-### 中文
-
-大连理工大学软件工程专业学生，关注智能系统与软件工程的交叉实践。
-
-相比只关注模型本身，我更重视模型能力如何被组织、调度、保护与持久化，并最终形成结构清晰、能够稳定运行的完整系统。
-
-</td>
-</tr>
-</table>
-
-<br/>
-
-<table>
-<tr>
-<td width="33%" align="center" valign="top">
-
-### AI Systems
-
-Multi-Agent Systems  
-Computer Vision  
-Multimodal Intelligence
-
-**智能系统 · 视觉 · 多模态**
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### System Engineering
-
-Backend Architecture  
-Service Boundaries  
-Secure Data Flows
-
-**后端架构 · 服务设计 · 数据安全**
-
-</td>
-<td width="33%" align="center" valign="top">
-
-### Research Engineering
-
-Reproducible Workflows  
-Experiment Analysis  
-Research Tooling
-
-**科研工作流 · 实验分析 · 工程工具**
-
-</td>
-</tr>
-</table>
+- Multi-Agent 科研辅助平台
+- CNN 手写数字识别
+- A* 路径规划
+- Machine Learning 回归实验
+- FastAPI + Supabase 后端与数据层
 
 ---
 
-## 02 — Featured Project / 核心项目
+## Projects / 项目
 
 ### [SciPilot](https://github.com/telitor/SciPilot)
 
-> **Multi-Agent Research Engineering Platform / 多智能体科研工程平台**
+> 面向软件工程学习与科研场景的 multi-agent platform。
 
-<table>
-<tr>
-<td width="58%" valign="top">
+项目将 **论文精读、问题拆解、结果分析、代码复现、项目规划** 五类 Agent 接入统一系统，并完成前端、后端、数据库和 Agent Runtime 的基础闭环。
 
-SciPilot connects five specialized agents into one coherent research workflow, covering paper reading, problem decomposition, result interpretation, code reproduction, and project planning.
+目前涉及的工程内容包括：
 
-SciPilot 将五类垂直智能体接入统一系统，覆盖论文精读、问题拆解、结果分析、代码复现与项目规划，形成从用户输入到智能处理、结果展示和数据持久化的完整闭环。
+- React + TypeScript 前端页面
+- FastAPI 统一 API Gateway
+- Supabase Auth、PostgreSQL 与 RLS
+- Conversation / Message 数据持久化
+- 基于 category 的 Agent routing
+- Signed WebSocket Agent communication
 
-**System focus / 系统重点**
+`React` · `TypeScript` · `FastAPI` · `Supabase` · `PostgreSQL` · `WebSocket`
 
-- Unified FastAPI gateway / 统一后端网关
-- Category-based agent routing / 基于类别的智能体调度
-- Independent WebSocket runtimes / 独立 WebSocket 运行时
-- Supabase Auth and RLS / 身份认证与行级权限
-- Persistent conversations and messages / 会话与消息持久化
-
-</td>
-<td width="42%" valign="top">
-
-### Agent Matrix / 智能体矩阵
-
-`01` Paper Reading / 论文精读  
-`02` Problem Decomposition / 问题拆解  
-`03` Result Interpretation / 结果分析  
-`04` Code Reproduction / 代码复现  
-`05` Project Planning / 项目规划
-
-### Core Stack / 核心技术
-
-`React` · `TypeScript`  
-`FastAPI` · `Pydantic`  
-`Supabase` · `PostgreSQL`  
-`WebSocket` · `RLS`
-
-[**View repository → / 查看项目 →**](https://github.com/telitor/SciPilot)
-
-</td>
-</tr>
-</table>
-
-```mermaid
-%%{init: {"theme": "neutral", "flowchart": {"curve": "basis"}}}%%
-flowchart LR
-    U[User Interface<br/>用户界面] --> G[FastAPI Gateway<br/>统一后端网关]
-    G --> D{Agent Dispatcher<br/>智能体调度}
-    D --> A1[Paper Reading]
-    D --> A2[Problem Decomposition]
-    D --> A3[Result Interpretation]
-    D --> A4[Code Reproduction]
-    D --> A5[Project Planning]
-    A1 --> P[Supabase Persistence<br/>数据持久化]
-    A2 --> P
-    A3 --> P
-    A4 --> P
-    A5 --> P
-```
+[View Repository →](https://github.com/telitor/SciPilot)
 
 ---
-
-## 03 — Selected Work / 代表项目
-
-<table>
-<tr>
-<td width="33%" valign="top">
 
 ### [Digit Recognition CNN](https://github.com/telitor/digit-recognition-cnn)
 
-CNN-based handwritten digit recognition with model training, evaluation, and visualized inference.
+基于 **PyTorch** 完成的 handwritten digit recognition project，包含数据处理、CNN 模型搭建、训练评估和预测结果可视化。
 
-基于卷积神经网络的手写数字识别项目，覆盖模型训练、性能评估与推理结果可视化。
+`Python` · `PyTorch` · `CNN`
 
-`Python` · `PyTorch` · `OpenCV`
+[View Repository →](https://github.com/telitor/digit-recognition-cnn)
 
-</td>
-<td width="33%" valign="top">
+---
 
 ### [Robot Path Planning](https://github.com/telitor/robot-path-planning)
 
-A* path planning with map parsing, obstacle avoidance, path reconstruction, and visualization.
+基于 **A\* Search** 的 path planning project，完成地图读取、障碍物处理、启发式搜索、路径回溯和结果可视化。
 
-基于 A* 搜索的路径规划项目，实现地图解析、障碍规避、路径回溯与规划结果可视化。
+`Python` · `A*` · `Path Planning`
 
-`Python` · `A* Search` · `Visualization`
+[View Repository →](https://github.com/telitor/robot-path-planning)
 
-</td>
-<td width="33%" valign="top">
+---
 
-### [Housing Regression](https://github.com/telitor/california-housing-regression)
+### [California Housing Regression](https://github.com/telitor/california-housing-regression)
 
-Regression experiments with preprocessing, model comparison, metric evaluation, and ablation analysis.
-
-围绕数据预处理、模型对比、评价指标与消融分析构建的机器学习回归实验。
+基于 California Housing dataset 的 regression experiment，包含数据预处理、模型训练、评价指标对比和实验结果分析。
 
 `Python` · `scikit-learn` · `Regression`
 
-</td>
-</tr>
-</table>
+[View Repository →](https://github.com/telitor/california-housing-regression)
 
 ---
 
-## 04 — Technical Scope / 技术能力
+## Interests / 兴趣方向
 
-| Domain / 方向 | Technologies & Practices / 技术与实践 |
-|---|---|
-| **Agent Systems / 智能体系统** | Agent routing, independent runtime configuration, signed WebSocket communication, structured responses |
-| **Backend Engineering / 后端工程** | FastAPI, Pydantic, REST APIs, authentication, service-layer design |
-| **Data & Security / 数据与安全** | Supabase, PostgreSQL, Row Level Security, conversation persistence |
-| **Frontend Engineering / 前端工程** | React, TypeScript, Vite, Tailwind CSS, Zustand, Axios |
-| **Machine Learning / 机器学习** | PyTorch, scikit-learn, CNN, model evaluation, experiment analysis |
-| **Engineering Workflow / 工程流程** | Git, GitHub, environment isolation, API documentation, reproducible setup |
+### AI Agents
 
-<br/>
+关注 Agent 的任务拆分、路由、上下文管理，以及多个智能能力如何接入同一个应用。
+
+### Computer Vision
+
+对图像分类、CNN 和视觉任务感兴趣，希望继续向更完整的 vision application 延伸。
+
+### Backend Engineering
+
+关注 API 设计、身份认证、数据库结构、服务分层和前后端协作。
+
+### Research Tools
+
+对论文理解、代码复现、实验分析等场景中的 AI 辅助工具感兴趣。
+
+---
+
+## Tech Stack / 技术栈
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,fastapi,react,ts,vite,tailwind,supabase,postgres,git,github&theme=light" alt="Core technology stack" />
-
-</div>
-
----
-
-## 05 — Engineering Direction / 当前方向
-
-```mermaid
-%%{init: {"theme": "neutral", "flowchart": {"curve": "linear"}}}%%
-flowchart LR
-    M[Model Capability<br/>模型能力] --> S[System Architecture<br/>系统架构]
-    S --> O[Agent Orchestration<br/>智能体编排]
-    O --> W[Research Workflow<br/>科研工作流]
-    W --> P[Usable Product<br/>可用产品]
-```
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Current Focus
-
-- Multi-agent orchestration
-- Research workflow automation
-- Reliable AI application architecture
-- Computer vision and multimodal systems
-
-</td>
-<td width="50%" valign="top">
-
-### 当前关注
-
-- 多智能体调度与协作
-- 科研工作流自动化
-- 可靠的 AI 应用架构
-- 计算机视觉与多模态系统
-
-</td>
-</tr>
-</table>
-
----
-
-## 06 — Recognition / 经历
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-### Dalian University of Technology
-
-Software Engineering  
-**大连理工大学 · 软件工程**
-
-</td>
-<td width="50%" align="center">
-
-### MCM / ICM
-
-Meritorious Winner  
-**美国大学生数学建模竞赛 M 奖**
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-### From model capability to usable systems.
-
-**让模型能力真正进入系统，并成为可以使用的产品。**
-
-<br/>
-
-[**Explore SciPilot / 查看 SciPilot**](https://github.com/telitor/SciPilot) · [**View All Repositories / 浏览全部项目**](https://github.com/telitor?tab=repositories)
-
-<br/>
-
-<sub>Software Engineering · Artificial Intelligence · Research Systems</sub>
+<img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,ts,vite,tailwind&theme=dark" />
 
 <br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=50&color=0:334155,50:1E293B,100:0F172A&section=footer" />
+<img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode,pycharm,anaconda,matlab&theme=dark" />
+
+</div>
+
+<br/>
+
+| Area | Technologies |
+|---|---|
+| **AI / Machine Learning** | Python, PyTorch, scikit-learn, CNN |
+| **Backend / Data** | FastAPI, Pydantic, Supabase, PostgreSQL, REST API, WebSocket |
+| **Frontend** | React, TypeScript, Vite, Tailwind CSS |
+| **Tools** | Git, GitHub, VS Code, PyCharm, Anaconda, MATLAB |
+
+---
+
+## Currently Working On / 目前在做
+
+- 继续完善 **SciPilot** 的 Agent 调度、前后端协作和数据持久化
+- 进一步接触 **Computer Vision** 与 multimodal learning
+- 提升后端架构、数据库设计和完整项目交付能力
+
+---
+
+<div align="center">
+
+**Keep building. Keep refining.**
+
+<br/>
+
+[GitHub](https://github.com/telitor) · [SciPilot](https://github.com/telitor/SciPilot)
+
+<br/><br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=105&color=0:0F766E,52:1E3A8A,100:0F172A&section=footer" />
 
 </div>
