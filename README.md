@@ -107,20 +107,12 @@
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,ts,vite,tailwind&theme=dark" />
 
-<br/><br/>
+<br/>
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode,pycharm,anaconda,matlab&theme=dark" />
 
 </div>
 
-<br/>
-
-| Area | Technologies |
-|---|---|
-| **AI / Machine Learning** | Python, PyTorch, scikit-learn, CNN |
-| **Backend / Data** | FastAPI, Pydantic, Supabase, PostgreSQL, REST API, WebSocket |
-| **Frontend** | React, TypeScript, Vite, Tailwind CSS |
-| **Tools** | Git, GitHub, VS Code, PyCharm, Anaconda, MATLAB |
 
 ---
 
