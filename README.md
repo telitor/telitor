@@ -4,8 +4,7 @@
 
 ### Software Engineering Student @ DUT
 
-目前主要关注 **AI Agents、Computer Vision 与 Backend Engineering**，  
-喜欢通过真实项目，把模型、接口、数据和前端逐步连接成可运行的完整应用。
+目前主要关注 **AI Agents、Computer Vision 与 Backend Engineering**。
 
 <br/>
 
