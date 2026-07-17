@@ -104,9 +104,6 @@
 
 ---
 
-## Tech Stack / 技术栈
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,ts,vite,tailwind&theme=dark" />
 
