@@ -120,7 +120,7 @@
 
 <br/>
 
-[GitHub](https://github.com/telitor) · [SciPilot](https://github.com/telitor/SciPilot)
+[GitHub](https://github.com/telitor) 
 
 <br/><br/>
 
