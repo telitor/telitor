@@ -127,14 +127,6 @@
 
 ---
 
-## Currently Working On / 目前在做
-
-- 继续完善 **SciPilot** 的 Agent 调度、前后端协作和数据持久化
-- 进一步接触 **Computer Vision** 与 multimodal learning
-- 提升后端架构、数据库设计和完整项目交付能力
-
----
-
 <div align="center">
 
 **Keep building. Keep refining.**
