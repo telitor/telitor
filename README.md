@@ -107,8 +107,6 @@
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,ts,vite,tailwind&theme=dark" />
 
-<br/>
-
 <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode,pycharm,anaconda,matlab&theme=dark" />
 
 </div>
