@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:0F172A,48:1E3A8A,100:0F766E&text=yongh&fontSize=52&fontColor=F8FAFC&fontAlignY=35&desc=Software%20Engineering%20%C2%B7%20AI%20Systems%20%C2%B7%20Project%20Building&descAlignY=57&descSize=16&animation=fadeIn" />
 
-### Software Engineering Student @ DUT
+### Computer Science and Engineering Student @ DUT
 
-目前主要关注 **AI Agents、Computer Vision 与 Backend Engineering**。
+Currently interested in **AI Agents, Computer Vision, and Backend Engineering**.
 
 <br/>
 
@@ -16,35 +16,45 @@
 
 <br/><br/>
 
-[Projects](#projects--项目) · [Interests](#interests--兴趣方向) · [Tech Stack](#tech-stack--技术栈)
+[Projects](#projects) · [Interests](#interests) · [Tech Stack](#tech-stack)
 
 </div>
 
 ---
 
-## About / 关于我
+## About
 
-我是大连理工大学计算机类专业学生。
+I am a Computer Science and Engineering student at **Dalian University of Technology**.
 
-我更关注一个功能怎样真正落地，平时会通过完整项目推进实践，而不是只停留在单独的算法或 Demo。
+I am interested in how an idea can be developed into a working system. Most of my learning happens through complete projects rather than isolated algorithms or small demonstrations.
+
+My current work mainly focuses on AI applications, backend development, computer vision, and the integration of models, APIs, databases, and user interfaces.
 
 ---
 
-## Projects / 项目
+## Projects
 
 ### [SciPilot](https://github.com/telitor/SciPilot)
 
-> 面向软件工程学习与科研场景的 multi-agent platform。
+> A multi-agent platform designed for software engineering education and research workflows.
 
-项目将 **论文精读、问题拆解、结果分析、代码复现、项目规划** 五类 Agent 接入统一系统，并完成前端、后端、数据库和 Agent Runtime 的基础闭环。
+SciPilot integrates five specialized agents into a unified system:
 
-目前涉及的工程内容包括：
+- Paper reading
+- Problem decomposition
+- Result interpretation
+- Code reproduction
+- Project planning
 
-- React + TypeScript 前端页面
-- FastAPI 统一 API Gateway
-- Supabase Auth、PostgreSQL 与 RLS
-- Conversation / Message 数据持久化
-- 基于 category 的 Agent routing
+The project connects the frontend, backend, database, and independent Agent Runtime into a complete application workflow.
+
+Current engineering components include:
+
+- React and TypeScript frontend
+- FastAPI unified API Gateway
+- Supabase Auth, PostgreSQL, and Row Level Security
+- Conversation and message persistence
+- Category-based Agent routing
 - Signed WebSocket Agent communication
 
 `React` · `TypeScript` · `FastAPI` · `Supabase` · `PostgreSQL` · `WebSocket`
@@ -55,7 +65,9 @@
 
 ### [Digit Recognition CNN](https://github.com/telitor/digit-recognition-cnn)
 
-基于 **PyTorch** 完成的 handwritten digit recognition project，包含数据处理、CNN 模型搭建、训练评估和预测结果可视化。
+A handwritten digit recognition project built with **PyTorch**.
+
+The project includes data preprocessing, CNN architecture design, model training, evaluation, and prediction visualization.
 
 `Python` · `PyTorch` · `CNN`
 
@@ -65,9 +77,11 @@
 
 ### [Robot Path Planning](https://github.com/telitor/robot-path-planning)
 
-基于 **A\* Search** 的 path planning project，完成地图读取、障碍物处理、启发式搜索、路径回溯和结果可视化。
+A path-planning project based on the **A\* search algorithm**.
 
-`Python` · `A*` · `Path Planning`
+It includes map loading, obstacle handling, heuristic search, path reconstruction, and route visualization.
+
+`Python` · `A* Search` · `Path Planning`
 
 [View Repository →](https://github.com/telitor/robot-path-planning)
 
@@ -75,7 +89,9 @@
 
 ### [California Housing Regression](https://github.com/telitor/california-housing-regression)
 
-基于 California Housing dataset 的 regression experiment，包含数据预处理、模型训练、评价指标对比和实验结果分析。
+A regression experiment based on the California Housing dataset.
+
+The project covers data preprocessing, model training, evaluation metric comparison, and analysis of different feature-processing methods.
 
 `Python` · `scikit-learn` · `Regression`
 
@@ -83,33 +99,37 @@
 
 ---
 
-## Interests / 兴趣方向
+## Interests
 
 ### AI Agents
 
-关注 Agent 的任务拆分、路由、上下文管理，以及多个智能能力如何接入同一个应用。
+Interested in task decomposition, Agent routing, context management, and the integration of multiple intelligent capabilities into a unified application.
 
 ### Computer Vision
 
-对图像分类、CNN 和视觉任务感兴趣，希望继续向更完整的 vision application 延伸。
+Interested in image classification, convolutional neural networks, and the development of practical computer vision applications.
 
 ### Backend Engineering
 
-关注 API 设计、身份认证、数据库结构、服务分层和前后端协作。
+Interested in API design, authentication, database architecture, service-layer design, and frontend-backend integration.
 
 ### Research Tools
 
-对论文理解、代码复现、实验分析等场景中的 AI 辅助工具感兴趣。
+Interested in AI-assisted tools for paper reading, code reproduction, experiment analysis, and research workflow organization.
 
 ---
 
+## Tech Stack
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,ts,vite,tailwind&theme=dark" />
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode,pycharm,anaconda,matlab&theme=dark" />
 
 </div>
-
 
 ---
 
@@ -119,7 +139,7 @@
 
 <br/>
 
-[GitHub](https://github.com/telitor) 
+[GitHub](https://github.com/telitor)
 
 <br/><br/>
 
