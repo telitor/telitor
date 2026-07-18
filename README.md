@@ -2,9 +2,9 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=185&color=0:0F172A,48:1E3A8A,100:0F766E&text=yongh&fontSize=52&fontColor=F8FAFC&fontAlignY=35&desc=Software%20Engineering%20%C2%B7%20AI%20Systems%20%C2%B7%20Project%20Building&descAlignY=57&descSize=16&animation=fadeIn" />
 
-### Computer Science and Engineering Student @ DUT
+### Software Engineering Student @ DUT
 
-Currently interested in **AI Agents, Computer Vision, and Backend Engineering**.
+Currently focused on **AI Agents, Computer Vision, and Backend Engineering**.
 
 <br/>
 
@@ -24,11 +24,9 @@ Currently interested in **AI Agents, Computer Vision, and Backend Engineering**.
 
 ## About
 
-I am a Computer Science and Engineering student at **Dalian University of Technology**.
+I am a student in a computer-related major at Dalian University of Technology.
 
-I am interested in how an idea can be developed into a working system. Most of my learning happens through complete projects rather than isolated algorithms or small demonstrations.
-
-My current work mainly focuses on AI applications, backend development, computer vision, and the integration of models, APIs, databases, and user interfaces.
+I am more interested in how a feature can be implemented in practice. I usually develop my skills through complete projects rather than stopping at isolated algorithms or demos.
 
 ---
 
@@ -36,24 +34,16 @@ My current work mainly focuses on AI applications, backend development, computer
 
 ### [SciPilot](https://github.com/telitor/SciPilot)
 
-> A multi-agent platform designed for software engineering education and research workflows.
+> A multi-agent platform designed for software engineering learning and research scenarios.
 
-SciPilot integrates five specialized agents into a unified system:
+The project integrates five types of Agents—**paper reading, problem decomposition, result interpretation, code reproduction, and project planning**—into a unified system, forming a basic closed loop across the frontend, backend, database, and Agent Runtime.
 
-- Paper reading
-- Problem decomposition
-- Result interpretation
-- Code reproduction
-- Project planning
+The current engineering components include:
 
-The project connects the frontend, backend, database, and independent Agent Runtime into a complete application workflow.
-
-Current engineering components include:
-
-- React and TypeScript frontend
+- React + TypeScript frontend
 - FastAPI unified API Gateway
-- Supabase Auth, PostgreSQL, and Row Level Security
-- Conversation and message persistence
+- Supabase Auth, PostgreSQL, and RLS
+- Conversation / Message data persistence
 - Category-based Agent routing
 - Signed WebSocket Agent communication
 
@@ -65,9 +55,7 @@ Current engineering components include:
 
 ### [Digit Recognition CNN](https://github.com/telitor/digit-recognition-cnn)
 
-A handwritten digit recognition project built with **PyTorch**.
-
-The project includes data preprocessing, CNN architecture design, model training, evaluation, and prediction visualization.
+A handwritten digit recognition project built with **PyTorch**, including data processing, CNN model construction, training and evaluation, and prediction result visualization.
 
 `Python` · `PyTorch` · `CNN`
 
@@ -77,11 +65,9 @@ The project includes data preprocessing, CNN architecture design, model training
 
 ### [Robot Path Planning](https://github.com/telitor/robot-path-planning)
 
-A path-planning project based on the **A\* search algorithm**.
+A path planning project based on **A\* Search**, including map loading, obstacle processing, heuristic search, path reconstruction, and result visualization.
 
-It includes map loading, obstacle handling, heuristic search, path reconstruction, and route visualization.
-
-`Python` · `A* Search` · `Path Planning`
+`Python` · `A*` · `Path Planning`
 
 [View Repository →](https://github.com/telitor/robot-path-planning)
 
@@ -89,9 +75,7 @@ It includes map loading, obstacle handling, heuristic search, path reconstructio
 
 ### [California Housing Regression](https://github.com/telitor/california-housing-regression)
 
-A regression experiment based on the California Housing dataset.
-
-The project covers data preprocessing, model training, evaluation metric comparison, and analysis of different feature-processing methods.
+A regression experiment based on the California Housing dataset, including data preprocessing, model training, evaluation metric comparison, and experimental result analysis.
 
 `Python` · `scikit-learn` · `Regression`
 
@@ -103,33 +87,29 @@ The project covers data preprocessing, model training, evaluation metric compari
 
 ### AI Agents
 
-Interested in task decomposition, Agent routing, context management, and the integration of multiple intelligent capabilities into a unified application.
+Interested in Agent task decomposition, routing, context management, and how multiple intelligent capabilities can be integrated into a unified application.
 
 ### Computer Vision
 
-Interested in image classification, convolutional neural networks, and the development of practical computer vision applications.
+Interested in image classification, CNNs, and visual tasks, with the goal of continuing toward more complete vision applications.
 
 ### Backend Engineering
 
-Interested in API design, authentication, database architecture, service-layer design, and frontend-backend integration.
+Interested in API design, authentication, database architecture, service layering, and frontend-backend collaboration.
 
 ### Research Tools
 
-Interested in AI-assisted tools for paper reading, code reproduction, experiment analysis, and research workflow organization.
+Interested in AI-assisted tools for paper understanding, code reproduction, experimental analysis, and other research scenarios.
 
 ---
 
-## Tech Stack
-
-<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,ts,vite,tailwind&theme=dark" />
-
-<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode,pycharm,anaconda,matlab&theme=dark" />
 
 </div>
+
 
 ---
 
@@ -139,7 +119,7 @@ Interested in AI-assisted tools for paper reading, code reproduction, experiment
 
 <br/>
 
-[GitHub](https://github.com/telitor)
+[GitHub](https://github.com/telitor) 
 
 <br/><br/>
 
