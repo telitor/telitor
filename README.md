@@ -8,11 +8,9 @@ Currently focused on **AI Agents, Computer Vision, and Backend Engineering**.
 
 <br/>
 
-<a href="https://github.com/telitor/SciPilot">
-  <img src="https://img.shields.io/badge/Featured-SciPilot-2563EB?style=flat-square&logo=github&logoColor=white" />
-</a>
-<img src="https://img.shields.io/badge/Focus-AI%20Systems-0F766E?style=flat-square" />
-<img src="https://img.shields.io/badge/Stack-Python%20%7C%20FastAPI%20%7C%20React-334155?style=flat-square" />
+<img src="https://img.shields.io/badge/Field-Computer%20Science-334155?style=flat-square" />
+<img src="https://img.shields.io/badge/Interests-AI%20%26%20Software%20Systems-0F766E?style=flat-square" />
+<img src="https://img.shields.io/badge/Approach-Learning%20by%20Building-2563EB?style=flat-square" />
 
 <br/><br/>
 
@@ -103,13 +101,17 @@ Interested in AI-assisted tools for paper understanding, code reproduction, expe
 
 ---
 
+## Tech Stack
+
+<div align="center">
 
 <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,fastapi,react,ts,vite,tailwind&theme=dark" />
+
+<br/><br/>
 
 <img src="https://skillicons.dev/icons?i=supabase,postgres,git,github,vscode,pycharm,anaconda,matlab&theme=dark" />
 
 </div>
-
 
 ---
 
@@ -119,7 +121,7 @@ Interested in AI-assisted tools for paper understanding, code reproduction, expe
 
 <br/>
 
-[GitHub](https://github.com/telitor) 
+[GitHub](https://github.com/telitor)
 
 <br/><br/>
 
